@@ -3,6 +3,10 @@ package CISC181.Q3;
 import java.lang.Math;
 
 public class Triangle extends GeometricObject{
+	public class triangle {
+
+	}
+
 	private double side1=1.0;
 	private double side2=1.0;
 	private double side3=1.0;
