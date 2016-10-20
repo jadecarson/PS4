@@ -1,6 +1,5 @@
 package ch.makery.address;
 
-
 import java.io.IOException;
 
 import javafx.application.Application;
